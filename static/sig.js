@@ -1,0 +1,2 @@
+let bText = '<div style="margin-top: 1rem;"><big>币安邀请码: <b style="color: blueviolet;">BIAN100</b><br/><a style="color: #e22d30;" href="https://gourl.pages.dev/binance" target="_blank">币安邀请链接,点击注册领取新人福利!</a></big></div>';
+document.writeln(bText);

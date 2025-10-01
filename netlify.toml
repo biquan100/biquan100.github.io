@@ -1,0 +1,10 @@
+[build]
+publish = "public"
+command = "NODE_ENV=production hugo"
+
+[build.environment]
+TZ = "Asia/Singapore"
+
+[context.production.environment]
+HUGO_VERSION = "0.147.8"
+
